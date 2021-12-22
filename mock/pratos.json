@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ostras de Coffin Bay",
+    "description": "Para atingir um tamanho de até dez vezes mais que ostras tradicionais, estas de Coffin Bay, na Austrália, demoram entre seis e sete anos crescendo até que sejam comercializadas. O tamanho impressiona, mas a textura perfeita e o sabor complexo e intenso também: salgado e doce ao mesmo tempo.",
+    "image": "https://s2.glbimg.com/SukPT_9yKb4plY_xY7tBQuVhqPM=/620x520/smart/e.glbimg.com/og/ed/f/original/2020/09/08/10-comida-ostra-meggysparkles-reddit.jpg",
+    "price": 4700,
+    "containsGluten": false,
+    "calories": 210
+  },
+  {
+    "id": 2,
+    "name": "Queijo pule",
+    "description": "Feito artesanalmente com leite fresco de burra dos Balcãs, no sudeste da Europa, o queijo é produzido em uma fazenda na Reserva Especial Natural de Zasavica, na Sérvia. São cerca de 100 animais no rebanho, cada burra é ordenhada manualmente e dá cerca de 300 ml de leite por ordenha. Mas 1 kg desta iguaria requer 6,5 galões de leite.",
+    "image": "https://s2.glbimg.com/slJG7CcYYdfoLmzTuqCsPx1NPWE=/620x290/smart/e.glbimg.com/og/ed/f/original/2020/09/08/9-comida-queijo-cropitekus-reddit.jpg",
+    "price": 1000,
+    "containsGluten": false,
+    "calories": 340
+  },
+  {
+    "id": 3,
+    "name": "Trufas brancas de Alba",
+    "description": "No total, existem nove tipos de trufas comestíveis que crescem na Itália. As brancas, de Alba, são as mais valiosas. Elas são especialmente raras porque não têm uma concha externa, o que as deixam vulneráveis ​​ao clima. O solo também impacta positivamente o sabor do produto.",
+    "image": "https://s2.glbimg.com/2F4Ixw_BAYIsHr3FXFuTrJ__YSk=/620x520/smart/e.glbimg.com/og/ed/f/original/2020/09/08/7-comida-trufas-atellani-reddit.jpg",
+    "price": 31800,
+    "containsGluten": true,
+    "calories": 300
+  },
+  {
+    "id": 4,
+    "name": "Melão Yubari King",
+    "description": "Esse melão é de um tipo híbrido, que só cresce na província de Shizuoka, no Japão. Além do cuidado padrão, cada fruta um é embrulhada em um papel especial enquanto cresce. Mas não é só esse o 'mimo': eles são massageados e polidos manualmente todos os dias.",
+    "image": "https://s2.glbimg.com/3S8jNuoFg-1IL4llTI8QhyzTnCY=/620x520/smart/e.glbimg.com/og/ed/f/original/2020/09/08/5-comida-melao-captain76-wikipedia.jpg",
+    "price": 53000,
+    "containsGluten": false,
+    "calories": 55
+  },
+  {
+    "id": 5,
+    "name": "Ninho de pássaro",
+    "description": "Isso mesmo. Ninhos de pássaros comestíveis são usados ​​na culinária chinesa há mais de 400 anos. Acredita-se que sejam extremamente benéficos para a saúde, já que a saliva endurecida das aves é rica em ferro, cálcio, magnésio e potássio. Os mais caros são de cor vermelha. Eles só podem ser encontrados em cavernas ricas em vapores de nitrogênio. Quando os ninhos secos são embebidos e vaporizados em água, eles se tornam gelatinosos.",
+    "image": "https://s2.glbimg.com/iJ-2yF-Gw0d2U6rCLnRL9X53qvg=/620x413/smart/e.glbimg.com/og/ed/f/original/2020/09/08/4-comida-ninho-fotasm-reddit.jpg",
+    "price": 53000,
+    "containsGluten": false,
+    "calories": 90
+  },
+  {
+    "id": 6,
+    "name": "Uvas Ruby Roman",
+    "description": "Ruby Roman é um tipo de uva que passa por uma seleção criteriosa antes de ser vendida. Só cachos com um peso não inferior a 700 gramas entram no mercado. Além disso, cada baga pesará, no mínimo, 20 gramas e conterá mais de 18% de açúcar. Ao comprar um cacho, você terá a garantia de obter apenas frutas grandes e doces e terá de pagar muito por isso.",
+    "image": "https://s2.glbimg.com/tW__0R0HoV01JnLUgrYXGVzkizo=/620x290/smart/e.glbimg.com/og/ed/f/original/2020/09/08/3-comida-uva-shingetsunews-youtube.jpg",
+    "price": 75000,
+    "containsGluten": false,
+    "calories": 130
+  },
+  {
+    "id": 7,
+    "name": "Fungo Caterpillar",
+    "description": "Esses fungos minúsculos, são do tamanho de um fósforo, e parasitam tipos de insetos que vivem em uma área estritamente limitada: no alto das montanhas do Tibete. É impossível infectar artificialmente larvas com este fungo, por isso, ele deve ser procurado na natureza. São considerados na medicina chinesa um agente mágico de cura: além de usado na alimentação como tempero para pato ou frango, também são considerados afrodisíacos.",
+    "image": "https://s2.glbimg.com/HYZnHVe8vY2cthVS7cmgWCoGCmk=/620x620/smart/e.glbimg.com/og/ed/f/original/2020/09/08/2-comida-fungo-mario-biondi-wikipedia.jpg",
+    "price": 95400,
+    "containsGluten": false,
+    "calories": 230
+  },
+  {
+    "id": 8,
+    "name": "Caviar 'Almas' Beluga",
+    "description": "A cor das ovas é especial: se parecem com pérolas bege translúcidas brilhantes. Esse produto é produzido a partir dos ovos de uma fêmea de esturjão albino, que amadurece por volta de seus 60, 100 anos (um peixe padrão do mesmo tipo amadurece aos 20 anos). O peixe é encontrado na parte sul do Mar Cáspio, perto do Irã, e restam poucas espécies na natureza. A raridade faz do caviar “Almas” Beluga o líder entre as comidas mais caras do mundo.",
+    "image": "https://s2.glbimg.com/SwcdF2LxVPaXfDap8kErE_vp_cE=/620x290/smart/e.glbimg.com/og/ed/f/original/2020/09/08/1-comida-caviar-e-village-youtube.jpg",
+    "price": 132500,
+    "containsGluten": false,
+    "calories": 1200
+  }
+]
